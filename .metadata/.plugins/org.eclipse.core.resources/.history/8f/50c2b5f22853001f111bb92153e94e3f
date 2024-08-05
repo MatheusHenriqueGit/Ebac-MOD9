@@ -1,0 +1,16 @@
+package ebacmod9;
+
+public class Mod9 {
+
+	public static void main(String args[]) {
+		
+		double valor = 9.66;
+		System.out.println(valor);
+		
+		Double valor1 = valor;
+		System.out.println(valor1);
+	}
+	
+	
+	
+}

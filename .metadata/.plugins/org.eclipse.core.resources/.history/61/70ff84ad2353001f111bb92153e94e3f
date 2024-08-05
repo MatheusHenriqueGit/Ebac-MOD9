@@ -1,0 +1,19 @@
+package ebacmod9;
+
+public class Mod9 {
+
+	public static void main(String args[]) {
+		
+		double d2= 75.99322222;
+		System.out.println(d2);
+		
+		float fl = (float) d2;
+        System.out.println(fl);
+		
+        
+        
+	}
+	
+	
+	
+}

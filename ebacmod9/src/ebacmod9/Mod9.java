@@ -4,14 +4,16 @@ public class Mod9 {
 
 	public static void main(String args[]) {
 		
-		double d2= 75.99322222;
-		System.out.println(d2);
 		
-		float fl = (float) d2;
-        System.out.println(fl);
+		int idade = 10;
+		System.out.println(idade);
 		
-        
-        
+		Integer idade1 = idade;
+		System.out.println(idade1);
+		
+		
+		
+		
 	}
 	
 	
